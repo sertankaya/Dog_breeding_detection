@@ -5,4 +5,4 @@ The code used two different CNN implementations. One is Keras and the other is P
 Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. Along with exploring state-of-the-art CNN models for classification, this implementation will make important design decisions about the user experience for the app. 
 
 
-![Capture](https://user-images.githubusercontent.com/16074792/54649499-b3320f00-4a67-11e9-9628-4d89faec7393.PNG)
+
